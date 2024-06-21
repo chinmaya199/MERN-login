@@ -59,4 +59,18 @@ Contributions are welcome! Please follow the standard GitHub flow: Fork the repo
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+### ⚡ Deploy Now
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FNextJSTemplates%2FMERN-login)
+
+[![Deploy with Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chinmaya199/MERN-login/)
+
+
+### 📄 License
+Startup is 100% free and open-source, feel free to use with your personal and commercial projects.
+
+### 💜 Support
+If you like the template, please star this repository to inspire the team to create more stuff like this and reach more users like you!
+
+### ✨ Explore and Download - Free [Next.js Templates](https://nextjstemplates.com)
 
